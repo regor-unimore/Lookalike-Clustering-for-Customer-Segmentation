@@ -43,7 +43,7 @@ Researchers and practitioners can use these instances to test clustering algorit
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo/lookalike-clustering.git](https://github.com/regor-unimore/Lookalike-Clustering-for-Customer-Segmentation.git)
+   git clone https://github.com/regor-unimore/Lookalike-Clustering-for-Customer-Segmentation.git
    ```
 2. Load an instance file into your clustering framework.
 3. Apply classical or quantum clustering algorithms.
